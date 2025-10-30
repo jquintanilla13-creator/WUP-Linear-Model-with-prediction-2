@@ -147,7 +147,9 @@ anova(model.1,model.2)
 
 The sum of residual sum of square errors of model 2 is greater than model 1. The difference of the two models is -25.189
 
+### Discussion and Conclusion
 
+In this assignment, we learned to import the data from a given website. We were able to manipulate the data into 3 different models. The first model was SIMS~ARM, the second was SIMS~GRIP, and the third was SIMS~ARM+GRIP. We used a prediction code to estimate the values alongside scatter plots to visualize the lines of best fit. We then used Anova to compare all 3 models, and when analyzing in the end, it showed us that model 3 has the best accuracy out of all 3 models. 
 
 
 
