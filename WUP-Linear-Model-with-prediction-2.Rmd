@@ -139,9 +139,13 @@ anova(model.2,model.3)
 
 Our P-Value for models 2 and 3 is 0.000000001495 which is even smaller than the P-Value of models 1 and 3. This proves that Model 3 is the most accurate model out of the 3 models. 
 
+### Model1~Model2
 
+```{r}
+anova(model.1,model.2)
+```
 
-
+The sum of residual sum of square errors of model 2 is greater than model 1. The difference of the two models is -25.189
 
 
 
