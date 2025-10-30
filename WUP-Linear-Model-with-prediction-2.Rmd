@@ -36,7 +36,11 @@ model.1 <- lm(SIMS~ARM,data=data)
 summary.lm(model.1)
 ```
 
+### Create Target
 
+```{r}
+target <- data.frame(ARM=90, GRIP=90)
+```
 
 
 
