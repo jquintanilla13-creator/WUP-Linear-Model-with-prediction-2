@@ -1,0 +1,11 @@
+---
+title: "WUP-Linear-Model-with-prediction-2"
+author: "Johana Quintanilla"
+date: "2025-10-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
